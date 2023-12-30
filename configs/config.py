@@ -80,7 +80,7 @@ config.multiscale = False
 
 # Evaluation
 
-config.use_cam = True
+config.use_cam = False
 config.eval_img_path = '/mnt/satan/data/AFLW2000-3D/AFLW2000'
 config.is_dlib = False
 config.is_mp = True
