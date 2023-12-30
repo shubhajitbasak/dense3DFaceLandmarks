@@ -1,0 +1,3 @@
+[submodule "dataprep/face3d"]
+	path = dataprep/face3d
+	url = https://github.com/yfeng95/face3d.git
